@@ -1,6 +1,7 @@
 # Coffee_Monday Expansion SQL Project
 
-https://lh3.googleusercontent.com/gg-dl/ABS2GSnAbYNKOEo5M853Jye6P3YdNeY5jTj3XIPXrQ62sXifqE9j7g-MONgfpf4JIjOJoTpJIc_OKcvABlF4PA4Sh1eBnS5BivXXFZY_Dys7S0l7FCuNDxZRpCme_F2qu5qBOaCl_zUtfbo94A9-__Mges9d0ca-RjCkbRjQprO0VjnQ81vcDw=s1024-rj<img width="1024" height="585" alt="image" src="https://github.com/user-attachments/assets/a6bd7c16-3352-480d-b14f-1e35c3ad45cc" />
+<img width="2008" height="1106" alt="image" src="https://github.com/user-attachments/assets/3d5221a8-35c9-4f88-8cec-b505ee3c9773" />
+
 
 
 ## Objective
