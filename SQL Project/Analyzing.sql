@@ -1,4 +1,4 @@
--- Monday Coffee -- Data Analysis 
+-- Coffee_Monday  -- Data Analysis 
 
 SELECT * FROM city;
 SELECT * FROM products;
