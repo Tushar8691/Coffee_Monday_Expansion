@@ -1,9 +1,5 @@
 # Coffee_Monday Expansion SQL Project
 
-<img width="2008" height="1106" alt="image" src="https://github.com/user-attachments/assets/3d5221a8-35c9-4f88-8cec-b505ee3c9773" />
-
-
-
 ## Objective
 The goal of this project is to analyze the sales data of Monday Coffee, a company that has been selling its products online since January 2023, and to recommend the top three major cities in India for opening new coffee shop locations based on consumer demand and sales performance.
 
